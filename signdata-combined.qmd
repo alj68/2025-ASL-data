@@ -7,14 +7,33 @@ format: pdf
 # load libraries and data
 library(tidyverse)
 library(readxl)
+library(stringr)
 
 eval_senses <- read_excel("semeval2007.gold.key.xlsx")
 asl_lex <- read_excel("signdata.xlsx")
 
-View(eval_senses)
-View(asl_lex)
+glimpse(eval_senses)
+glimpse(asl_lex)
 ```
 
 ```{r}
+#filter asl_lex nouns and verbs only
+noun_verbs <- asl_lex |> filter(LexicalClass == "Noun" | LexicalClass == "Verb")
 
+#rename columns to match
+noun_verbs <- noun_verbs |>
+  rename(WordKey = EntryID)
+
+#mutate eval_senses to visualize individual words
+eval_senses$WordKey <- 
+  gsub("d.*? ", "", eval_senses$WordKey)
+
+eval_senses$WordKey <-
+  gsub("%.*", "", eval_senses$WordKey)
+```
+
+```{r}
+#inner join eval_senses and asl_lex noun_verbs
+
+joint_data <- inner_join(eval_senses, noun_verbs, by = "WordKey")
 ```
