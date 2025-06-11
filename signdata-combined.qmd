@@ -1,6 +1,8 @@
 ---
 title: "signdata-combined"
 format: pdf
+message: FALSE
+warning: FALSE
 ---
 
 ```{r}
@@ -18,11 +20,10 @@ glimpse(asl_lex)
 
 ```{r}
 #filter asl_lex nouns and verbs only
-noun_verbs <- asl_lex |> filter(LexicalClass == "Noun" | LexicalClass == "Verb")
-
 #rename columns to match
-noun_verbs <- noun_verbs |>
-  rename(WordKey = EntryID)
+noun_verbs <- asl_lex |> 
+  rename(WordKey = EntryID) |>
+  filter(LexicalClass == "Noun" | LexicalClass == "Verb")
 
 #mutate eval_senses to visualize individual words
 eval_senses$WordKey <- 
@@ -30,10 +31,19 @@ eval_senses$WordKey <-
 
 eval_senses$WordKey <-
   gsub("%.*", "", eval_senses$WordKey)
+
+#enlongate the data so each english translation gets its own row
+nv_long <- noun_verbs |>
+  separate_rows(SignBankEnglishTranslations,
+                sep = ",\\s*") |>
+  mutate(SignBankEnglishTranslations = str_trim(SignBankEnglishTranslations))
 ```
 
 ```{r}
 #inner join eval_senses and asl_lex noun_verbs
 
-joint_data <- inner_join(eval_senses, noun_verbs, by = "WordKey")
+use_data <- inner_join(nv_long, eval_senses, by = "WordKey") |>
+  distinct()
+
+glimpse(use_data)
 ```
