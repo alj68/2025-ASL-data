@@ -1,0 +1,20 @@
+---
+title: "signdata-combined"
+format: pdf
+---
+
+```{r}
+# load libraries and data
+library(tidyverse)
+library(readxl)
+
+eval_senses <- read_excel("semeval2007.gold.key.xlsx")
+asl_lex <- read_excel("signdata.xlsx")
+
+View(eval_senses)
+View(asl_lex)
+```
+
+```{r}
+
+```
