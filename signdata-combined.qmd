@@ -11,39 +11,8 @@ library(tidyverse)
 library(readxl)
 library(stringr)
 
-eval_senses <- read_excel("semeval2007.gold.key.xlsx")
 asl_lex <- read_excel("signdata.xlsx")
 
 glimpse(eval_senses)
 glimpse(asl_lex)
-```
-
-```{r}
-#filter asl_lex nouns and verbs only
-#rename columns to match
-noun_verbs <- asl_lex |> 
-  rename(WordKey = EntryID) |>
-  filter(LexicalClass == "Noun" | LexicalClass == "Verb")
-
-#mutate eval_senses to visualize individual words
-eval_senses$WordKey <- 
-  gsub("d.*? ", "", eval_senses$WordKey)
-
-eval_senses$WordKey <-
-  gsub("%.*", "", eval_senses$WordKey)
-
-#enlongate the data so each english translation gets its own row
-nv_long <- noun_verbs |>
-  separate_rows(SignBankEnglishTranslations,
-                sep = ",\\s*") |>
-  mutate(SignBankEnglishTranslations = str_trim(SignBankEnglishTranslations))
-```
-
-```{r}
-#inner join eval_senses and asl_lex noun_verbs
-
-use_data <- inner_join(nv_long, eval_senses, by = "WordKey") |>
-  distinct()
-
-glimpse(use_data)
 ```
