@@ -7,12 +7,11 @@ warning: FALSE
 
 ```{r}
 # load libraries and data
-library(tidyverse)
-library(readxl)
-library(stringr)
+library(readr)
+signdata <- read_csv("signdata.csv")
+```
 
-asl_lex <- read_excel("signdata.xlsx")
-
-glimpse(eval_senses)
-glimpse(asl_lex)
+```{r}
+signdata <- signdata |>
+  select(EntryID, Code, )
 ```
