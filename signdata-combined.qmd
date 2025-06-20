@@ -7,16 +7,11 @@ warning: FALSE
 
 ```{r}
 # load libraries and data
+install.packages("writexl")
 library(readxl)
+library(writexl)
 library(tidyverse)
 
 signdata <- read_excel("~/Desktop/Downloads/REUAICT/Real-Code/Data-Cleaning/ASL-Data/asl-lex.xlsx") |>
   select(LemmaID, SignBankEnglishTranslations)
-
-glimpse(signdata)
-```
-
-```{r}
-signdata <- signdata |>
-  select(EntryID, Code, )
 ```
