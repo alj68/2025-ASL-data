@@ -7,8 +7,13 @@ warning: FALSE
 
 ```{r}
 # load libraries and data
-library(readr)
-signdata <- read_csv("signdata.csv")
+library(readxl)
+library(tidyverse)
+
+signdata <- read_excel("~/Desktop/Downloads/REUAICT/Real-Code/Data-Cleaning/ASL-Data/asl-lex.xlsx") |>
+  select(LemmaID, SignBankEnglishTranslations)
+
+glimpse(signdata)
 ```
 
 ```{r}
