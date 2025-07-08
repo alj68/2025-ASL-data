@@ -7,12 +7,7 @@ def extract_text(track):
     """
     Extracts the text content found in <A> tags within a TRACK element.
     """
-    delim1 = ">"
-    delim2 = "<"
-    part1 = track.split(delim1)
-    part2 = part1[1]
-    gloss = part2.split(delim2)
-    return gloss[0]
+    return track.text
 
 def parse_utterances_from_xml(file_path):
     """
@@ -30,11 +25,13 @@ def parse_utterances_from_xml(file_path):
         for track in utt.iter("TRACK"):
             if track.get("FID") == "10000":
                 for a in track:
-                    gloss = extract_text(a.text)
-                    asl_gloss.append(gloss)
+                    gloss = extract_text(a)
+                    if gloss is not None:
+                        asl_gloss.append(gloss)
             elif track.get("FID") == "20001":
-                text = extract_text(track.text)
-                eng_sent.append(text)
+                for a in track:
+                    text = extract_text(a)
+                    eng_sent.append(text)
         asl_sent = " ".join(asl_gloss)
 
         utterance_pairs.append({
