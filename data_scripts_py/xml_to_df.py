@@ -22,11 +22,11 @@ def revise_gloss_token(gloss):
     if gloss.startswith("(1h)") or gloss.startswith("(2h)"):
         gloss = gloss[4:]
 
-    if gloss[-2] == ":":
-        gloss = gloss[:-2]
-
-    if gloss[1] == ":":
-        gloss = gloss[2:]
+    if ("-loc" not in gloss) and ("-arc" not in gloss) and ("-dir" not in gloss) and ("-pl" not in gloss):
+        if gloss[-2] == ":":
+            gloss = gloss[:-2]
+        if gloss[1] == ":":
+            gloss = gloss[2:]
 
     if (":indef" in gloss) or ("-indef" in gloss):
         gloss = gloss.replace(":indef", "")
