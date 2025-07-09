@@ -16,36 +16,30 @@ def revise_gloss_token(gloss):
     gloss = gloss.replace(" ", "")
     gloss = gloss.replace("!", "")
 
-    while gloss[-1] == "+":
-        gloss = gloss[:-1]
+    if gloss[-2] == ":":
+        gloss = gloss[:-2]
+    if gloss[1] == ":":
+        gloss = gloss[2:]
 
     if gloss.startswith("(1h)") or gloss.startswith("(2h)"):
         gloss = gloss[4:]
 
-    if ("-loc" not in gloss) and ("-arc" not in gloss) and ("-dir" not in gloss) and ("-pl" not in gloss):
-        if gloss[-2] == ":":
-            gloss = gloss[:-2]
-        if gloss[1] == ":":
-            gloss = gloss[2:]
+    if "alt." in gloss:
+        gloss = gloss.replace("alt.", "")
+
+    while gloss[-1] == "+":
+        gloss = gloss[:-1]
 
     if (":indef" in gloss) or ("-indef" in gloss):
         gloss = gloss.replace(":indef", "")
         gloss = gloss.replace("-indef", "")
 
-    if "alt." in gloss:
-        gloss = gloss.replace("alt.", "")
-
-    empty_gloss = ""
-
-    if gloss[0].isdigit() and gloss[1] == '"': 
-        return empty_gloss
+    empty_gloss = "xx"
     
-    if gloss.startswith("(5)"):
+    if gloss.startswith("(") or gloss.startswith():
         index = gloss.index(")")
         if gloss[index + 1] == '"':
-            return empty_gloss
-        else:
-            gloss = gloss[index + 1:]
+            return gloss[:index + 1] + empty_gloss
 
     return gloss.strip()
 
