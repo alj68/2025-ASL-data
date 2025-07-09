@@ -9,6 +9,16 @@ def extract_text(track):
     """
     return track.text
 
+def revise_gloss_token(old_gloss):
+    """
+    Revises gloss tokens by removing unwanted characters and normalizing spaces.
+    """
+    gloss = old_gloss.replace(" ", "")
+    
+    return gloss
+
+    return gloss
+
 def parse_utterances_from_xml(file_path):
     """
     Parses one XML file and returns a list of:
@@ -53,11 +63,11 @@ def build_dataframe_from_folder(xml_folder):
 
 if __name__ == "__main__":
     # ←– Point this to your folder of .xml files
-    xml_folder = "Z:\\official-code\\data\\trial_xml"
+    xml_folder = "Z:\\official-code\\data\\cv_xml\\xml"
 
     df = build_dataframe_from_folder(xml_folder)
     print(f"Found {len(df)} utterances across all files.")
     print(df.head(10))
 
     # Optional: save to disk
-    df.to_csv("all_asl_utterances.csv", index=False)
+    df.to_csv("all_pairs.csv", index=False)
