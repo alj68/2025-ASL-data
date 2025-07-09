@@ -9,15 +9,45 @@ def extract_text(track):
     """
     return track.text
 
-def revise_gloss_token(old_gloss):
+def revise_gloss_token(gloss):
     """
     Revises gloss tokens by removing unwanted characters and normalizing spaces.
     """
-    gloss = old_gloss.replace(" ", "")
-    
-    return gloss
+    gloss = gloss.replace(" ", "")
+    gloss = gloss.replace("!", "")
 
-    return gloss
+    while gloss[-1] == "+":
+        gloss = gloss[:-1]
+
+    if gloss.startswith("(1h)") or gloss.startswith("(2h)"):
+        gloss = gloss[4:]
+
+    if gloss[-2] == ":":
+        gloss = gloss[:-2]
+
+    if gloss[1] == ":":
+        gloss = gloss[2:]
+
+    if (":indef" in gloss) or ("-indef" in gloss):
+        gloss = gloss.replace(":indef", "")
+        gloss = gloss.replace("-indef", "")
+
+    if "alt." in gloss:
+        gloss = gloss.replace("alt.", "")
+
+    empty_gloss = ""
+
+    if gloss[0].isdigit() and gloss[1] == '"': 
+        return empty_gloss
+    
+    if gloss.startswith("(5)"):
+        index = gloss.index(")")
+        if gloss[index + 1] == '"':
+            return empty_gloss
+        else:
+            gloss = gloss[index + 1:]
+
+    return gloss.strip()
 
 def parse_utterances_from_xml(file_path):
     """
@@ -35,13 +65,16 @@ def parse_utterances_from_xml(file_path):
         for track in utt.iter("TRACK"):
             if track.get("FID") == "10000":
                 for a in track:
-                    gloss = extract_text(a)
-                    if gloss is not None:
-                        asl_gloss.append(gloss)
+                        gloss = extract_text(a)
+                        if gloss is not None:
+                            gloss = revise_gloss_token(gloss)
+                            if gloss != "":
+                                asl_gloss.append(gloss)
             elif track.get("FID") == "20001":
                 for a in track:
                     text = extract_text(a)
                     eng_sent.append(text)
+        
         asl_sent = " ".join(asl_gloss)
 
         utterance_pairs.append({
@@ -70,4 +103,4 @@ if __name__ == "__main__":
     print(df.head(10))
 
     # Optional: save to disk
-    df.to_csv("all_pairs.csv", index=False)
+    df.to_csv("trial_revision.csv", index=False)
