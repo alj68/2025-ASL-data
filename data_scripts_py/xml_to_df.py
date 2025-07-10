@@ -15,6 +15,7 @@ def revise_gloss_token(gloss):
     """
     gloss = gloss.replace(" ", "")
     gloss = gloss.replace("!", "")
+    gloss = gloss.replace("'", '"')
 
     if gloss[-2] == ":":
         gloss = gloss[:-2]
@@ -35,11 +36,18 @@ def revise_gloss_token(gloss):
         gloss = gloss.replace("-indef", "")
 
     empty_gloss = "xx"
+
+    if gloss.endswith('"'):
+        index = gloss.index('"') 
+        return gloss[:index] + empty_gloss
     
-    if gloss.startswith("(") or gloss.startswith():
+    if gloss.startswith("("):
         index = gloss.index(")")
         if gloss[index + 1] == '"':
             return gloss[:index + 1] + empty_gloss
+        
+    if gloss.startswith("5") and gloss[1] == '"':
+        return "5" + empty_gloss
 
     return gloss.strip()
 
@@ -97,4 +105,4 @@ if __name__ == "__main__":
     print(df.head(10))
 
     # Optional: save to disk
-    df.to_csv("trial_revision.csv", index=False)
+    df.to_csv("clean_gloss_sent_pairs.csv", index=False)
