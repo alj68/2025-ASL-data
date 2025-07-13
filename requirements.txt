@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-text
+keras
+keras-hub
+rouge-score
+protobuf
+pyparsing
+numpy
