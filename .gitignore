@@ -4,3 +4,4 @@
 .Ruserdata
 .venv/
 data/
+.DS_Store
