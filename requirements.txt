@@ -1,8 +1,4 @@
-tensorflow
-tensorflow-text
-keras
-keras-hub
 rouge-score
-protobuf
+keras-hub
+keras
 pyparsing
-numpy
