@@ -1,4 +1,6 @@
-rouge-score
-keras-hub
-keras
-pyparsing
+tensorflow \
+keras \
+numpy \
+keras-nlp \
+keras-hub \
+pyparsing 
