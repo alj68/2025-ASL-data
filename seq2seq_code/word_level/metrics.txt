@@ -52,6 +52,8 @@ TRIAL5 RESULTS2
 TRIAL5 RESULTS2
     ROUGE-1 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.42068034410476685>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.32498180866241455>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.34988173842430115>}
     ROUGE-2 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.21741840243339539>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.16280566155910492>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.17630094289779663>}
+
+
 TRIAL6 PARAMETERS ***
     BATCH_SIZE = 16
     EPOCHS = 30 
