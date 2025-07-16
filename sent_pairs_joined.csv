@@ -375,7 +375,7 @@ Demi Moore's first husband was Bruce Willis.,KNOW fs-DEMI-MOORE POSS FIRST HUSBA
 Is the class tough?,CLASS_2 TOUGH
 Jack lied. He's not sick.,fs-JACK IX LIE IX NOT SICK IX
 Are you going to the party next week?,IX GO PARTY NEXT-WEEK IX
-My friend doesn't want to go out.,POSS FRIEND IX WANT+NEG WANT+NEG GO-OUT THUMB-IX
+My friend doesn't want to go out.,POSS FRIEND IX WANT+NEG WANT+NEG GO-OUT IX
 No one wants to go.,NONE/NOTHING WANT GO-OUT
 "Once he learns the truth, he will be disgusted.",IX FINALLY_2 LEARN HONEST FUTURE FEEL DISGUST
 Boston is a great city.,BOSTON WOW WONDERFUL CITY/COMMUNITY_3
@@ -450,7 +450,7 @@ The student who won the award will get a $100 voucher.,STUDENT IX WIN TROPHY_2 I
 "When you leave, would you mind closing the gate?",IX LEAVE NOT-MIND CLOSE-GATE
 I will read a book.,FUTURE READ BOOK IX
 I finished reading the book.,IX FINISH READ BOOK
-"If Obama picks a Republican, he will be sorry.",IF IX fs-OBAMA CHOOSE REPUBLICAN fs-OBAMA FUTURE SORRY THUMB-IX
+"If Obama picks a Republican, he will be sorry.",IF IX fs-OBAMA CHOOSE REPUBLICAN fs-OBAMA FUTURE SORRY IX
 "If the box hasn't arrived yet, you need to contact Fedex.",#IF IX BOX/ROOM NOT-YET ARRIVE IX SHOULD CONTACT fs-FEDEX
 If it's quiet in here it probably means that there are children upstairs sleeping.,#IF QUIET HERE MEAN MAYBE HAVE CHILDREN UP SLEEP
 He/she will go to school if it's not canceled.,#IF SCHOOL NOT CANCEL/CRITICIZE IX FUTURE GO SCHOOL IX
@@ -2233,9 +2233,9 @@ The deer looked at me and then moved on to cross the road.,DEER SHOCK LOOK PROCE
 My heart was pounding.,IX ICL HEART BPCL
 My heart was beating really fast.,REALLY FAST BCL ICL
 I caught my breath.  It had been a close call. ,BCL CLOSE-CALL BCL
-"My car was in the middle of the road, angled perpendicular to the road.  I didn't know which direction I had been going!",SCL MIDDLE ROAD SCL IX fs-OR THUMB-IX WHICH
+"My car was in the middle of the road, angled perpendicular to the road.  I didn't know which direction I had been going!",SCL MIDDLE ROAD SCL IX fs-OR IX WHICH
 I wasn't sure which way to go.,IX SCL 
-I decided to head down one of the ways.,IX PROCEED THUMB-IX SCL
+I decided to head down one of the ways.,IX PROCEED IX SCL
 I drove really slowly.,DRIVE IX SLOW DRIVE
 I saw a sign up ahead.,SEE DCL IX
 It was for route 80.  I saw it.,EIGHTY HIGHWAY AGAIN IX LOOK
@@ -2302,7 +2302,7 @@ It is really inspiring.  It involves many things:,REALLY INSPIRE REALLY INVOLVE 
 It's eleven on eleven; players on the two teams match up in the competition.,IX ON ELEVEN #ALL EQUAL TO EQUAL PLAY-AGAINST #UP
 One team has the offensive line...,IX HAVE OFFENSE PCL
 "The offense picks a bunch of guys who weigh 300, 350 pounds to block...",IX CAN SELECT CREATE/PRETEND 300 350 POUND SELECT BLOCK
-"...the quarterback, who has the running back behind him.  ",#QB fs-QUARTERBACK SCL WITH RUNNING-BACK THUMB-IX
+"...the quarterback, who has the running back behind him.  ",#QB fs-QUARTERBACK SCL WITH RUNNING-BACK IX
 "There are many different options: they can pass to the wide receiver, ",HAVE MANY DIFFERENT CHOICE CAN ICL TO IX WIDE-RECEIVER
 "or they can hand off to the running back, ",#OR ICL TO RUNNING-BACK ICL
 "they can throw to the Tight End, maybe, or, I don't know...",CAN TO #TE MAYBE fs-OR 
@@ -2378,7 +2378,7 @@ I looked around to make sure nobody saw me.,IX LOOK MAKE REALLY NONE ONE SEE IX
 Then I walked back out from behind the bush.,fs-THEN IX SCL OUT fs-OF fs-BUSH DCL SCL
 "I was relieved, because it was important that nobody see me.  ",IX WHEW/RELIEVED IMPORTANT NONE ONE SEE IX 
 I pulled a cigarette from my pants pocket and lit up.,IX BCL CIGARETTE ICL
-I looked back.,IX LOOK THUMB-IX
+I looked back.,IX LOOK IX
 I was looking back and saw two cops running.,IX LOOK SEE TWO COP BCL
 "They were LAPD, and were coming up running. ",FROM fs-LAPD PCL BCL
 "I thought ""what's going on?""",IX 
@@ -2489,7 +2489,7 @@ Did John finish reading the book?,fs-JOHN FINISH READ BOOK QM
 What is John reading a book about?,fs-JOHN READ BOOK ABOUT 
 What is John reading a book about?,fs-JOHN READ BOOK ABOUT 
 What is John reading a book about?,fs-JOHN READ BOOK ABOUT 
-"If John needs more information, he will read the book.",fs-JOHN NEED MORE INFORMATION FUTURE READ BOOK THUMB-IX
+"If John needs more information, he will read the book.",fs-JOHN NEED MORE INFORMATION FUTURE READ BOOK IX
 "If John reads the book, he will know more about Lincoln's life.",fs-JOHN READ BOOK FUTURE KNOW MORE ABOUT LINCOLN POSS LIFE
 "If John reads the book, he will know more about Lincoln's life.",fs-JOHN READ BOOK FUTURE KNOW MORE ABOUT LINCOLN POSS LIFE
 "When John finds out there will be a test, he will panic and be compelled to read the book.",fs-JOHN FIND/FIND-OUT FUTURE EXAM FUTURE DCL PROCEED READ BOOK
@@ -3000,7 +3000,7 @@ We hoped to get out of Nevada soon so we wouldn't feel tempted to gamble again b
 "When we were getting ready to get out of Nevada, I felt something on the back of my car. All of a sudden, the car dropped down in the back and was skidding.",READY TO OUTSIDE fs-NEVADA REALLY  FEEL SOMETHING/ONE fs-OF POSS #CAR SCL
 My friends were driving in front of me and I was following them.  I had to get their attention by waving my hand so I could pull their car over.,IX  POSS FRIEND SCL IX  SCL
 "As I got out of my car, I looked at the back of my car and saw one of the tires was flat. The tire literally blew out in two pieces! It was all gone!",IX SCL OUT POSS #CAR SCL LOOK  POSS TIRE FLAT DCL IN TWO PART DCL REALLY GONE
-I started to realize that I had a spare tire in the trunk so it was a good thing that I brought it with me. ,IX  GOOD THING IX BRING fs-SPARE TIRE IX BRING IN THUMB-IX fs-TRUNK TRUNK
+I started to realize that I had a spare tire in the trunk so it was a good thing that I brought it with me. ,IX  GOOD THING IX BRING fs-SPARE TIRE IX BRING IN IX fs-TRUNK TRUNK
 "I rummaged in the trunk.  I admit that it was my first time changing a tire. I know all men should know how, but unfortunately, I didn't.",IX DCL CL REALLY POSS FIRST TIME CHANGE TIRE ADMIT KNOW-THAT  #ALL MAN SHOULD KNOW HOW TO CHANGE TIRE BUT  fs-UN+FORTUNATELY NOT FOR IX 
 I changed the tire. The tire was a donut tire that is only supposed to last for 50 miles.,IX CHANGE TIRE   REALLY IX THAT TIRE DONUT fs-DONUT TIRE FUTURE CONTINUE FOR ONLY  fs-MILES
 "And, it's like 11 o'clock at night--everything was closed.  I just had to find a place to stay and have the car fixed the next morning. ",AND THAT fs-WAS SAME ELEVEN NIGHT EVERY+THING CLOSE IX  MUST FIND/FIND-OUT PLACE STAY AND FIX TOMORROW MORNING 
@@ -3231,7 +3231,7 @@ The deaf man turned to the cop and gestured that he couldn't hear.,IX DEAF IX BC
 "The cop thought to himself, ""whatever"", and told the men, ""go ahead"".",BCL  NOT-CARE  B-L
 "The deaf person said, ""sure thing"" and drove away.",DEAF PERFECT DRIVE
 The hearing man looked at him shocked.,HEARING IX LOOK
-"The hearing person thought ""wow, he got excused!"".",EXCUSE THUMB-IX WOW 
+"The hearing person thought ""wow, he got excused!"".",EXCUSE IX WOW 
 The deaf person continued driving and started to speed again.,DEAF DRIVE AGAIN SPEED
 Another cop pulled them over.,OTHER COP SCL
 The cop walked over and started talking.,BPCL TALK
@@ -3342,7 +3342,7 @@ We had a leader that sat at the back of the raft.,IX HAVE LEADER
 "There were eight of us in the raft,  and both people in front had to be hearing.",HAVE UNDERSTAND BOTH FRONT MUST HEARING
 So I can follow how to row.,#SO IX CAN FOLLOW ICL
 They will know when it is the right time to stop rowing or drag the paddle.,KNOW WHEN RIGHT TIME STOP ICL
-The leader would yell but we Deaf people cannot hear him in the back.,SCREAM #SO IX DEAF CANNOT HEAR THUMB-IX
+The leader would yell but we Deaf people cannot hear him in the back.,SCREAM #SO IX DEAF CANNOT HEAR IX
 So we sat down and got ready.,#SO IX SCL  READY
 "The boat was really slow.  I thought, no problem.",DCL REALLY SLOW IX 
 I was rowing and thought it was boring.,IX ICL IX THINK  BORE  ICL
@@ -3364,7 +3364,7 @@ We had a choice of steak or chicken.,HAVE STEAK #OR CHICKEN CHOICE
 "I went for the steak--I love steak.  We ate quickly, ",IX GO-OUT FOR STEAK IX KISS-FIST STEAK SELF IX GRAB-CHANCE EAT
 ...and when that was done we got on the raft again,ETC. FINISH SCL ON fs-RAFT AGAIN
 "The raft headed down the river.  The man in the back, our leader,... ",DCL IX MAN WHO LEAD IX
-"He warned us that later, further down, would be be tougher.",THUMB-IX WARN SAY LATER IX TOUGH
+"He warned us that later, further down, would be be tougher.",IX WARN SAY LATER IX TOUGH
 He expected a bunch of us to fall out.,REALLY EXPECT MANY IX SCL
 "I looked at him and said OK, that is fine.",IX LOOK #OK FINE
 "The raft went down some rapids--really, it was fifteen feet straight down",FINE REALLY FIFTEEN fs-FEET SCL
