@@ -1,0 +1,51 @@
+input sentence,translation
+mary never started rowing.,IX fs- MARY IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+all the boys each give the teacher an apple.,IX IX
+"when i finish work, i will go home.",IX IX IX IX SAY IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+mary is funny. she really wants an ugly dog.,IX fs- MARY IX SAY MAKE REALLY IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+when did the president go to china?,IX IX IX LOOK IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+what did john buy?  books.,fs- JOHN IX NOT THAT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+did bob give someone roses?,fs- fs- THAT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+you have to work all night?,IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"no, he's not from philadelphia.",IX IX IX IX LOOK IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+have you met my new friend?,IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+the teacher does not like movies.,IX IX IX IX WANT+NEG WANT+NEG WANT+NEG IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"when bob starts the fire, we will collect logs to keep it going.",fs- fs- MEAN IX
+"if all the students pass the test, then there will be no school tomorrow.",IX IX IX IX
+"a man walking saw money on the ground, and seeing no one was around, he pocketed it.",IX MAN IX MAN IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"so, what does deaf speech mean?",# IX IX IX
+there are many implications associated with deaf experiences and trying to make accommodations. often people will hear a deaf person and criticize them and think there's something wrong until they find out the person is deaf and then the situation is excused. but there is still that initial rude stare because people aren't making that connection between what they hear and the deaf person.,IX TO/UNTIL IX DEAF IN IX
+jack lied. he's not sick.,IX IX IX IX FINE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"in one store, i was looking at this really nice silk shirt.",IX IX IX IX SAY IX THINK IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+does bob like reading books?,fs- BOB IX IX PROCEED IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+the teacher gave the student one book.,IX IX IX
+i have different lists of stories and testimonies to share.,IX IX IX
+which one of you found my keys?,IX IX IX
+my heart was beating really fast.,IX IX IX
+horses played on the farmland.,IX IX IX
+the teacher cleans the classroom.,IX IX IX
+why isn't there any pineapple cream cheese?,IX IX IX NOT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"if all the students pass the test, then there will be no school tomorrow.",IX IX IX IX
+"in one store, i was looking at this really nice silk shirt.",IX IX IX IX SAY IX THINK IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+for how long has that student been reading the book?,IX IX IX IX LOOK IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+the weather isn't beautiful today.,IX IX
+"""i warn you, get out or else i will snatch you and eat you up!"" wolf said.",IX IX IX CANNOT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+when did the president go to china?,IX IX IX LOOK IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+i need to pay rent.,IX IX IX MUST PAY fs- FOR IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+the student doesn't like to read but he/she likes to eat chocolate.,IX IX IX CANNOT NOTICE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+i don't know.  some woman arrived here.,IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+did bob give someone roses?,fs- fs- THAT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+the siren flashed and the two cars pulled over.,IX IX FIND/FIND-OUT IX BCL IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+i don't want to buy shorts.,IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+father will really like that book!,# IX IX FUTURE FAIL IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"if you like chocolate, you will love this cake.",IX IX IX IX LOVE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"the house shakes again, louder and worse than before.  he ran downstairs.",IX IX
+he arrived at the wood house.,IX IX ARRIVE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+sue is buying that blue car.,IX IX # IX FAIL IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+mary is funny. she really wants an ugly dog.,IX fs- MARY IX SAY MAKE REALLY IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"if it rained yesterday, i would have gone to the movies.",# IX FOR IX
+"if there's an emergency, where will you go?",IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"the proctor walked up to her and told her to be quiet.   she didn't realize that she was making noises, the proctor told her not to do that again.",IX IX IX IX IX HOPE IX WANT+NEG FOR IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+we should bring in the deaf mentor to meet the parents.,IX IX
+who will go to the post office?,IX IX IX FUTURE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+my mother bought me a book written by vince lombardi.,IX MOTHER IX BUY ONE WOW IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX

@@ -1,0 +1,51 @@
+input sentence,translation
+john gave some woman over there a book.,FOR # DO FOR FOR SCL WHY NONE/NOTHING COMMUNICATE
+mother is reading the book.,FOR THAT SCL SCL DCL FINE NOT # BACK
+i already went out and saw the movie.,SAME fs-
+why did father buy that book?,DCL MOTHER THAT FOR WHY fs- FORGET-IT QM
+john should give car to the father.,THAT FOR THAT POSS
+"for example, a styrofoam cup, when it  is peeled, is extremely noisy and loud. it sounds like fingernails scratching a chalkboard. so there is a warning not to peel styrofoam cups.",
+"i went for the steak--i love steak.  we ate quickly, ",IN DCL
+i finished homework last night.,SAME POSS fs- FOR DEAF FUTURE IX NONE/NOTHING BUOY FUTURE
+"he asked, ""why did you do that?"" i didn't have an answer, and i felt bad.",DURING/WHILE
+why is the teacher upset?,DCL THAT DCL IN FINE FINE NOT FOR IX FOR # OUT
+"i went for the steak--i love steak.  we ate quickly, ",
+"the reporter was really scared.  muhammad ali put him back in his seat, and said, ""i am just teasing, don't worry!""",REALLY # SCL
+"if it rains, i`ll go home.",IX DCL IN SCL DCL FOR IX FUTURE REALLY IN
+"as for john giving the teacher cars, how many did he give him/her?",DCL FOR REALLY fs- JOHN fs- DURING/WHILE NOT
+"if i commute to work by bicycle, i will have to wake up earlier.",IX REALLY # # FOR IX IX THAT # NO FEEL TO/UNTIL # OR FOR
+who has to pay rent?,FOR # IX
+he saw me in the cop car.,BCL IX SCL CAR FUTURE THAT FUTURE IN BUT fs- HIT IX IX NOT IX
+i arrived at school late because i got into a bicycle accident.,SCL REALLY IX # RA IX REALLY THAT IX IN # RA SAME NONE/NOTHING fs- # JOB REALLY
+then my friend asked what was going on.,# IX TO/UNTIL SCL
+horses played on the farmland.,TO/UNTIL IX # IX MAKE SAME WHY DCL BUT NONE/NOTHING fs- SPEECH BUOY REALLY IX REALLY IX IX fs- TO/UNTIL FINE
+"it happened that, far down the road...",
+"i have to admit that during spring time in boston, it rains a lot.",
+why doesn't john like chocolate?,IX fs- NONE/NOTHING WHY fs- JOHN MUST JOIN WOW WOW BUOY THAT
+"oftentimes, people who have experience  talking on the phone, visualize what the person they're talking to might look like.",IX TO/UNTIL DCL REALLY SCL IX FUTURE
+the student has the videotape.,IX NONE/NOTHING ESCAPE HAVE TIME IN REALLY STILL NOT
+i hoped my finger wouldn't become dry (the blood) or whatever. so i kept waiting.,FOR
+because i felt it would be their word against mine.,IX MAKE ADMIT DCL DCL
+is bad weather coming to boston?,IN # IX REALLY FOR fs- BUT IX FINE WOW SOMETHING/ONE SAME SAME IX REALLY IX IN # DO # DO REALLY FINE WOW POSS MAKE fs- HIT BUOY SCL
+mary has a different bike.,THAT TO/UNTIL TO/UNTIL
+the leader would yell but we deaf people cannot hear him in the back.,SAME REALLY
+many hearing people who become deaf overnight...,LOOK LOOK FINE IX
+the social institutions influence everything from medication to education. it would be possible to train people to learn to see things in a different way.,BUT IN IN THAT FOR fs-
+i wrote to explain that deaf people can read lips.,THAT fs-
+seven years ago.,DURING/WHILE THAT THAT TO/UNTIL fs- THINK FINE WHY FINE THINK SOMETHING/ONE REALLY MAKE fs- THEN
+"or, if they really need to arrest someone, cuff him with his hands in front of his body...",IX IN REALLY IX LOOK SEE REALLY fs- # TO/UNTIL
+i looked back.,IN fs-
+"if you like chocolate, you will love this cake.",IN REALLY THAT IX
+john finished reading the book.,fs- IX FOR FOR IN THAT MEAN FINE SAME FOR IX THAT DCL WHY IX REALLY ADMIT IX IN MOVIE FOR ONE GROUP/TOGETHER fs- POSS
+john is not visiting mary.  (he) is visiting (his) mother.,fs- fs-
+when does the party start?,REALLY WHY REALLY DCL
+we should bring in the deaf mentor to meet the parents.,IN FOR
+my sister wants a headband for her birthday.,INFORM IX MUST DCL TO/UNTIL REALLY IX IX IX REALLY POSS NAME REALLY MAKE REALLY BAD REALLY LITTLE-BIT
+"when my friend starts dying their hair, other friends will think it's cool and start joining.",
+"if my aunt makes a blue (starts signing 'pie') berry pie, i have to go over and eat it.",
+john thinks mary loves (him).,POSS IX WANT
+"""you have a deaf brother."" ",IX
+i just thought it was eleven guys hitting another eleven guys.,DCL fs- TO/UNTIL IX BUT THAT FOR THAT FOR REALLY DCL DCL SCL # IX FUTURE LEARN # FUTURE MAKE fs- IX NONE/NOTHING COMMUNICATE TO/UNTIL A-LOT SCL FOR DEAF IN # OUT WHY
+the pigs went in and discussed what to do; they closed and locked the windows and doors.,IX IX IX FOR IX IX # OR FOR FOR fs- STILL BLOOD MORE THAT SOMETHING/ONE FOR THAT # DOG_2 FUTURE FEEL NOTHING FUTURE GET fs- BUOY # RA IX
+why isnt't there any pineapple cream cheese?,REALLY HAVE THAT THAT MEAN WOW BUT WOW BUT # FUTURE THAT GROUP/TOGETHER FOR FOR POSS MOTHER+FATHER FUTURE IX NOT REALLY NONE/NOTHING fs- BUT NONE/NOTHING
+horses play on the farmland because they are too old to race.,fs- SCL IX SCL IX IX FOR EXAMPLE FINE

@@ -1,0 +1,51 @@
+input sentence,translation
+why doesn't john like chocolate?,REALLY fs- IX
+"if it snows tomorrow, then it's a guarantee that school will be closed.",DCL
+"if obama picks a republican, he will be sorry.",IN IX IX
+when the three pigs grew up...,FOR IX fs-
+the study notices how the hit group thinks that the glass wasn't broken at all.,IN IX
+jason is going home because he is hot.,FOR REALLY fs- IX THAT # OUT IX IX
+"""today is the last day of the semester right?"" ""no next week is. we still have one more week of class.""",FOR
+i don't want to buy shorts.,# FUTURE IX
+why isnt't there any pineapple cream cheese?,REALLY IX fs- IX NOT POSS FAVORITE/PREFER # OUT CALIFORNIA
+i looked around to make sure nobody saw me.,IX
+the teacher likes movies.,IX IX IN IX LOOK
+"if she actually does it, the boss will not yell.",IX IX # IN # DO REALLY MAKE IX
+they will stop and make sure no one brings in any fruits or vegetables from mexico.,
+"if you were curious and walked by you would see two deaf professionals, one a teacher and the other a manager. they were discussing politics and having a deep dialogue and the signing was so in depth. but the grunt sound and the vocals sounded like an animal fight.",DCL TO/UNTIL IX IN IX HOPE #
+"if mother goes to the store, she will buy milk.",FOR IX
+i would've read the book but the beginning was boring.,# FOR fs- IN fs- FOR IX FINE
+does bob like reading books?,IX FINISH IX FINISH MEET IX
+a thought struck me; i pulled out my wallet and opened it...,FOR # IX IX SAY THAT
+"again, there is the grass house.",SAME THAT FOR REALLY
+jim assaulted a man and now the man is threatening to sue jim.,
+i won't be thrilled if there's pineapple cream cheese.,NOT RAIN
+"another thing: in the summer, it's very humid here.",POSS
+"if i commute to work by bicycle, i will have to wake up earlier.",FOR IX TO/UNTIL
+john's old house was sold yesterday.,fs- JOHN IX IX TO/UNTIL
+"a man walking saw money on the ground, and seeing no one was around, he pocketed it.",THAT fs- IN IX SAY CANNOT FOR IX BUT
+i wrote to explain that deaf people can read lips.,THAT MEAN THAT fs- FROM # BUT
+we should bring in the deaf mentor to meet the parents.,#
+the social institutions influence everything from medication to education. it would be possible to train people to learn to see things in a different way.,FOR THAT
+"""hey last night john stewart interviewed sarah jessica parker."" ""no, he didn't interview her he interviewed sarah palin.""",IX IX MUST IX fs- BEACH # IX HOPE IX
+"people can't imagine how, if a person who can't control his voice, how he would run the country. so automatically people can't accept him as president just by his voice. that is an example of excessive voice in comparison to grunts.",IX DCL fs- IX MAKE IX CANNOT MEAN IN
+"if it rained yesterday, i would have gone to the movies.",IX LOOK IX FOR IX FUTURE
+did you not pass out?,REALLY
+john thinks mary loves (him).,fs-
+i work.,REALLY
+the weather today is beautiful.,DCL DCL
+the weather isn't beautiful today.,THAT
+"in the class, while the teacher was lecturing, i was coughing.  so i tried to figure out how i could reduce the coughing.",# IX
+my friend goes out to a party.,POSS fs- FOR IX THAT FOR
+i was rowing and thought it was boring.,IX # IX SCL FINE
+jack lied. he's not sick.,IX
+"no, mitt romney is a mormon, but rick perry isn't.",THAT
+bob does not have a big dog; he has a small one.,# SO THAT IX fs- OBAMA IX FUTURE IX # NO
+"if the people i invited show up late, they will regret it.",DCL
+sue and ben decided to move here to boston. they arrived last year.,IX TO/UNTIL IX TEND SAY INFORM IN fs- IX IN fs- IN THAT TO/UNTIL A-LOT IX
+when did the president go to china?,
+"my friends did the same.  they both wrote down their orders, we gave the waitress the paper, and off she went. ",# IN IX IN
+we went on a trip to san francisco.  we enjoyed it so much and sf is a beautiful city.,# IX FOR IN
+"that experience of conflict of trying to figure out the voice of the interpreter and compare it to the deaf person signing, happens often.",IX REALLY fs- TO/UNTIL
+"when i make a list for the bbq, i have to make sure i invite all of my friends.",IX
+where did you put the tree?,

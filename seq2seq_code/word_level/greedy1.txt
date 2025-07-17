@@ -1,0 +1,51 @@
+input sentence,translation
+it's that student's mother that is buying a car.,IX BCL
+john won't like the movie.,fs- JOHN IX NOT LIKE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+mother likes movies.,MOTHER IX LIKE THAT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+it won't open til 9 or 10 in the morning.  we were okay with it even though we had to wait for a bit. the mechanic finally opened and they fixed the tire.,IX NOT IX NOT IX fs- IX fs- IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX MAKE REALLY IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"another thing: in the summer, it's very humid here.",IX FUTURE IX FIND/FIND-OUT IX IX FUTURE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"i went for the steak--i love steak.  we ate quickly, ",IX IX IX IX SAY IX FINE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX LIKE THAT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"you see the book over there, john finished reading it yesterday.",IX SEE IX fs- JOHN IX MUST IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+horses play on the farmland because they are too old to race.,IX IX IX
+when did my friends start driving?,IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"but of course they need to be informed in a polite way, so they will accept it.",IX IX IX
+"if i arrive to work late, my boss will fire me.",IX IX IX IX
+jack lied. he's not sick.,IX IX IX IX FINE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"because i was so shocked that i, i don't know.",# IX IX IX CANNOT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"the doctors often would say ""we should discuss the grief progress. here's the social worker and counselor, they will help you to nagivate the grief progress.""",IX IX IX FIND/FIND-OUT IX MEET IX MUST IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+a lot of deaf people experience trying to control their voice and the conception of their voice. they try to make voice accommodations.,# IX IX IX
+we had rope with us when we went up.,IX IX
+i had to ask for directions because i had no idea where to go.,IX IX IX
+john should go.,fs- IX FUTURE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"that experience of conflict of trying to figure out the voice of the interpreter and compare it to the deaf person signing, happens often.",IX IX fs- IX DCL IX DCL
+"if your friend passes out, i won`t take care of him.",IX IX IX IX CANNOT
+many hearing people who become deaf overnight...,OH-I-SEE IX
+i have different lists of stories and testimonies to share.,IX IX IX
+"the doctors often would say ""we should discuss the grief progress. here's the social worker and counselor, they will help you to nagivate the grief progress.""",IX IX IX FIND/FIND-OUT IX MEET IX MUST IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"the doctors often would say ""we should discuss the grief progress. here's the social worker and counselor, they will help you to nagivate the grief progress.""",IX IX IX FIND/FIND-OUT IX MEET IX MUST IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"he yawned, went upstairs, and went to bed. ",# IX IX
+"he said, ""to pump out his stomach.""",IX IX IX IX SAY IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+the pigs blew on the fire and it grew.,IX IX
+my family always vacations every year.,IX IX
+"i went for the steak--i love steak.  we ate quickly, ",IX IX IX IX SAY IX FINE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX LIKE THAT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"i wasn't ready to move out of san diego, so i stayed.",IX IX IX IX WANT+NEG WANT+NEG IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"then the professor looked at me with contemptible facial expression and said: ""okay, i understand, i get your message, okay?!"" then looked away with the ruthless face. i looked around..",# IX IX
+horses played on the farmland.,IX IX IX
+"if he is allergic to peanuts, he cannot eat the cake.",IX IX THAT IX THAT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"as for john reading the book, he already did.",fs- JOHN IX IX FINISH READ BOOK IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+who's driving?,IX IX SAY IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+my family does not vacation every year any more.,IX IX IX
+john thinks mary loves (him).,fs- IX IX LOVE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"i was drinking underage, too.",IX IX IX SAY IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"then the professor looked at me with contemptible facial expression and said: ""okay, i understand, i get your message, okay?!"" then looked away with the ruthless face. i looked around..",# IX IX
+"if he is allergic to peanuts, he cannot eat the cake.",IX IX THAT IX THAT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+i saw a sign up ahead.,IX LOOK IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+"if mom doesn't walk to the store, there won't be any milk.",IX IX IX NOT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX LIKE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+i'm moving to san diego because i got a new job offer.,IX IX IX TO/UNTIL IX HOPE WHY IX CANNOT
+horses play on the farmland because they are too old to race.,IX IX IX
+why did the friends dye their hair together?,IX IX IX
+"if mother is cleaning the kitchen, we can't bake cookies today.",IX MOTHER IX IX CANNOT IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
+did father arrive home late last night?,# IX POSS IX
+the teacher gave the student one book.,IX IX IX
+"when i grew up, i was told that a bathroom is a safe place. it's not true anymore.",IX IX IX
+john thinks mary loves (him).,fs- IX IX LOVE IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX IX
