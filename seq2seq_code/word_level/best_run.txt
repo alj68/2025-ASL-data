@@ -1,0 +1,11 @@
+input sentence,translation
+"yesterday, it rained all day.",RAIN YES ALL-NIGHT CALL YES ALL-DAY
+will john give his father that car?,JOHN FATHER DRIVE CAR THAT MOTHER+FATHER DRIVE
+the teacher likes movies.,MOVIE TEACH+AGENT GROUP/TOGETHER TEACH+AGENT
+do you mind helping me?,THING MIND MIND LIGHTNING HEARING
+friends are going to sunbathe at the beach.,SUNBATHE SUNBATHE AREA SUNBATHE SUNBATHE BEAUTIFUL SUNBATHE BETWEEN/SHARE
+my brother can't help me.,HELP GROUP/TOGETHER TEACHER BROTHER CANCEL/CRITICIZE CANCEL/CRITICIZE FATHER
+one team has the offensive line...,TEACHER ARRIVE LIVE SOMETHING/ONE ARRIVE SCREAM LIVE TEACH+AGENT
+where did sue move to?,MOVIE_2 MOVE LOVE LOVE MOVIE_2
+who is planning to surprise bob?,SURPRISE PLACE BRING NOISE WHO NOISE
+"we were okay with it, so that`s when my family moved there.",WITH WITH FAMILY HERE WERE KITCHEN WITH WHERE WITH MOVIE WHEN KITCHEN WHEN WHEN KITCHEN

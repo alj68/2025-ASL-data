@@ -1,0 +1,11 @@
+input sentence,translation
+she was disappointed and walked over to tell my parents.,TELL AND TELL AND TELL AND TELL AND TELL AND TELL AND
+my grandfather was a big boxing fan.,BIG WAS BIG WAS BIG WAS BIG WAS BIG
+it--that car there--is john's father's.,CAR THAT CAR THAT CAR THAT CAR THAT CAR THAT CAR THAT CAR THAT CAR THAT CAR
+i was driving across the u.s.,ACROSS WAS ACROSS WAS ACROSS WAS ACROSS WAS ACROSS WAS
+the three pigs went out looking for a location.,FOR THREE FOR THREE FOR THREE FOR THREE FOR THREE FOR
+"for example, a nasal, high pitched, or loud voice, these things can bother some people,",CAN FOR CAN FOR CAN FOR CAN FOR CAN FOR CAN FOR CAN FOR CAN FOR CAN FOR CAN FOR CAN
+"the cop said, ""no...",COP THEN COP THEN COP THEN COP THEN COP THEN
+"i admit, i had to go to the bathroom real bad. ",BATHROOM REALLY BATHROOM REALLY BATHROOM REALLY BATHROOM REALLY BATHROOM REALLY BATHROOM REALLY BATHROOM REALLY
+"if he is allergic to peanuts, he cannot eat the cake.",CANNOT EAT CANNOT EAT CANNOT EAT CANNOT EAT CANNOT EAT CANNOT EAT CANNOT EAT
+what did the man tell him/her?,TELL MAN TELL MAN TELL MAN TELL MAN TELL MAN

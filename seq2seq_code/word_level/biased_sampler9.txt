@@ -1,0 +1,11 @@
+input sentence,translation
+"...and here in boston is that the fall, in september, seems about the same.",ABOUT WHERE HERE THAT HERE THAT BOSTON SAME ABOUT FIND/FIND-OUT THAT WHERE HERE ABOUT FIND/FIND-OUT SEE SAME SAME GO-OUT
+we gave the bag to the hall coordinator.,LEAVE SMALL FALL HALL BAG FOOTBALL SMALL BAG
+he placed third in the election but was willing to give his speech that he prepared to win the caucus. so as he was presenting his voice was building up and he started screaming.,WIN BUILDING BUT BUILDING GIVE ELECTION BUILDING WIN GIVE WIN VOICE BUILDING BUILDING SPEECH BUILDING BUILDING BUT GIVE BUILDING THIRD BUILDING BUILDING THAT BUT BUT BUILDING GIVE VOICE GIVE ELECTION VOICE BUILDING BUILDING VOICE BUT
+when did john finish reading the book?,JOHN REALLY NONE/NOTHING FINE FINISH FIND/FIND-OUT REALLY
+"my parents said, ""really? oh well.""",PARTY GRUNTS PARADE PARTY PARK PART PARKINSONS PARPF PARKINSONS PARALLEL
+does my sister want a headband for her birthday?,HER HEADBAND SISTER HEADBAND FOR-FOR FOR HER HER GROUP/TOGETHER
+"if it gets torn up fast, it's noisy.",BORN FAST NOISE+RUMBLE NOISE NOISE NOISE+RUMBLE GET-UP NOISE NOISE BORN GET-UP
+"my friend said ""nah, its better to pull over."" ""okay, fine,"" i said, ""i'd be happy to."" i said sarcastically.  we pulled over. ",PULL PULL TEND PULL FRIEND BETTER PULL FRIEND PULL FIND/FIND-OUT PULL FRIEND PULL ITS PULL PULL BETTER PULL PULL FINISH PULL TEND PULL PULL HAPPY BETTER PULL FRIEND PULL HAPPY PULL FINE TEND PULL PULL ITS FINISH FRIEND
+"...and here in boston is that the fall, in september, seems about the same.",HERE FIND/FIND-OUT HERE THAT BOSTON AND SAME THAT WHERE AND SAME ABOUT HERE ABOUT ABOUT SAME WHERE THAT ABOUT
+i already told them that i'm going out tomorrow.,TOMORROW OUT HEARING OUT NONE/NOTHING READY ABOUT THAT OUT NONE/NOTHING ABOUT

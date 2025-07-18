@@ -1,0 +1,11 @@
+input sentence,translation
+mother bought a car and gave it to john.,MOTHER CAR MOTHER CAR HAVE CAR HAVE CAR HAVE CAR HAVE
+"he stays awake, but eventually crashes and sleeps. ",REALLY BUT REALLY BUT REALLY BUT REALLY BUT REALLY BUT REALLY
+"when it rains, i still go out.",RAIN WHERE RAIN WHERE RAIN WHERE WHEN RAIN WHERE WHEN
+third. there tends to be a tense. high pitch voice.  so...,WHERE TEND VOICE WHERE TEND VOICE WHERE TEND VOICE WHERE TEND VOICE WHERE TEND VOICE WHERE TEND VOICE
+frank is looking for whose book?,WHO LOOK WHO LOOK WHO LOOK WHO LOOK
+i just drank it and it tastes fine.,FINISH MUST FINISH MUST FINISH MUST FINISH MUST FINISH MUST
+father will like that book.,MOTHER THAT BOOK THAT BOOK THAT BOOK
+"if he buys a plaid shirt, i will buy a striped shirt- i don't want the same shirt as him.",BUY SAME BUY SAME BUY SAME BUY SAME BUY SAME BUY SAME BUY SAME BUY SAME BUY SAME BUY SAME BUY SAME BUY SAME BUY SAME
+"when it was time for his voice test, his voice didn't match the character. things weren't like they used to be and his career slumped.",CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR LIKE CAR
+i was driving across the u.s.,POSS DRIVE POSS DRIVE POSS DRIVE POSS DRIVE POSS DRIVE

@@ -1,66 +1,47 @@
-TRIAL1 PARAMETERS
+CUSTOM_SAMPLER 1 PARAMETERS   
     BATCH_SIZE = 16
-    EPOCHS = 30
-    EMBED_DIM = 64
-    INTERMEDIATE_DIM = 512
+    EPOCHS = 15
+    EMBED_DIM = 128
+    INTERMEDIATE_DIM = 528
     NUM_HEADS = 4
-TRIAL1 RESULTS
-    ROUGE-1 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.5127553939819336>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.21852929890155792>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.2828042805194855>}
-    ROUGE-2 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.3376341760158539>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.11107052117586136>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.14879556000232697>}
+    MAX_SEQUENCE_LENGTH = max_length
 
-
-TRIAL2 PARAMETERS
-    BATCH_SIZE = 32
-    EPOCHS = 30 
-    EMBED_DIM = 64
-    INTERMEDIATE_DIM = 512
-    NUM_HEADS = 8
-TRIAL2 RESULTS
-    ROUGE-1 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.26235172152519226>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.24470892548561096>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.2434207797050476>}
-    ROUGE-2 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.12461607903242111>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.11350768059492111>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.11309732496738434>}
-
-
-TRIAL3 PARAMETERS
-    BATCH_SIZE = 64
-    EPOCHS = 30 
-    EMBED_DIM = 64
-    INTERMEDIATE_DIM = 512
-    NUM_HEADS = 8
-TRIAL3 RESULTS
-    ROUGE-1 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.2508102059364319>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.1496649831533432>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.17998559772968292>}
-    ROUGE-2 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.1031746193766594>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.054977670311927795>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.06753669679164886>}
-
-TRIAL4 PARAMETERS
-    BATCH_SIZE = 32
-    EPOCHS = 30 
-    EMBED_DIM = 128
-    INTERMEDIATE_DIM = 512
-    NUM_HEADS = 8
-TRIAL4 RESULTS
-    ROUGE-1 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.26169973611831665>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.19008807837963104>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.2106505185365677>}
-    ROUGE-2 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.13258004188537598>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.09322592616081238>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.1018500104546547>}
-
-TRIAL5 PARAMETERS 
+CUSTOM_SAMPLER 2 PARAMETERS
     BATCH_SIZE = 16
-    EPOCHS = 30 
-    EMBED_DIM = 128
-    INTERMEDIATE_DIM = 512
+    EPOCHS = 15
+    EMBED_DIM = 64
+    INTERMEDIATE_DIM = 256
+    NUM_HEADS = 2
+    MAX_SEQUENCE_LENGTH = max_length
+
+CUSTOM_SAMPLER 3 PARAMETERS
+    BATCH_SIZE = 16
+    EPOCHS = 15
+    EMBED_DIM = 32
+    INTERMEDIATE_DIM = 128
+    NUM_HEADS = 2
+    MAX_SEQUENCE_LENGTH = max_length
+
+BIASED_SAMPLER 1 PARAMETERS
+    BATCH_SIZE = 16
+    EPOCHS = 15
+    EMBED_DIM = 32
+    INTERMEDIATE_DIM = 128
+    NUM_HEADS = 2
+    MAX_SEQUENCE_LENGTH = max_length
+
+BIASED_SAMPLER 8 PARAMETERS ***** best_run
+    BATCH_SIZE = 16
+    EPOCHS = 20
+    EMBED_DIM = 64
+    INTERMEDIATE_DIM = 128
     NUM_HEADS = 4
-TRIAL5 RESULTS2
-    ROUGE-1 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.39952436089515686>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.32300612330436707>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.3412918150424957>}
-    ROUGE-2 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.21292349696159363>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.1653793454170227>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.1765907257795334>}
-TRIAL5 RESULTS2
-    ROUGE-1 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.42068034410476685>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.32498180866241455>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.34988173842430115>}
-    ROUGE-2 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.21741840243339539>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.16280566155910492>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.17630094289779663>}
+    MAX_SEQUENCE_LENGTH = max_length
 
-
-TRIAL6 PARAMETERS ***
-    BATCH_SIZE = 16
-    EPOCHS = 30 
-    EMBED_DIM = 128
-    INTERMEDIATE_DIM = 512
-    NUM_HEADS = 8
-TRIAL6 RESULTS
-    ROUGE-1 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.40995076298713684>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.31819456815719604>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.34620267152786255>}
-    ROUGE-2 Score:  {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.2206716388463974>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.18220925331115723>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.19263999164104462>}
-
+BIASED 9
+    BATCH_SIZE = 32
+    EPOCHS = 20
+    EMBED_DIM = 64
+    INTERMEDIATE_DIM = 128
+    NUM_HEADS = 4
+    MAX_SEQUENCE_LENGTH = max_length

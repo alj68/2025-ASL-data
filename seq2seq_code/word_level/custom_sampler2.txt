@@ -1,0 +1,11 @@
+input sentence,translation
+"i like it, if it has butter, i'm fine with that.",FINISH FINISH FINISH FINISH FINISH FINISH FINISH FINISH FINISH FINISH FINISH FINISH FINISH FINISH
+when i meet new people i`m lousy at memorizing their names.,WHEN WHEN PEOPLE PEOPLE PEOPLE PEOPLE PEOPLE PEOPLE PEOPLE PEOPLE PEOPLE PEOPLE PEOPLE PEOPLE
+"my mother taught my two brothers and me, so it was easier for us to move around.",MOTHER MOTHER MOTHER MOTHER MOTHER MOTHER MOTHER MOTHER MOTHER MOTHER MOTHER MOTHER MOTHER MOTHER
+"i starting making an invitation list for my bbq party, i will have to make sure it's right.",HAVE HAVE HAVE HAVE HAVE HAVE HAVE HAVE HAVE HAVE FUTURE HAVE HAVE FUTURE
+"but, of course i couldn't do that.",THAT THAT THAT THAT THAT THAT THAT THAT THAT THAT THAT THAT THAT THAT
+friends get together to go out.,FRIEND FRIEND FRIEND FRIEND FRIEND FRIEND FRIEND FRIEND FRIEND FRIEND FRIEND FRIEND FRIEND MOTHER
+did father arrive home late at night?,MOTHER MOTHER MOTHER MOTHER MOTHER ARRIVE HOME MOTHER ARRIVE HOME MOTHER ARRIVE HOME MOTHER
+"when bob arrives at the party, everyone has to spray him with silly string and tease him.",REALLY REALLY REALLY REALLY REALLY REALLY REALLY REALLY REALLY REALLY REALLY REALLY REALLY REALLY
+he was shocked because she used the same line as his parents when he was growing up.,WHEN SAME SAME SAME SAME SAME SAME SAME SAME SAME SAME SAME SAME SAME
+or ask the collided group about the car and if the glass was broken?,CAR CAR CAR CAR CAR GO-OUT CAR GO-OUT CAR GO-OUT CAR GO-OUT CAR GO-OUT

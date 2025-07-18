@@ -1,0 +1,11 @@
+input sentence,translation
+the student's mother bought a car.,MOTHER TEACHER STUDENT MOTHER MOTHER+FATHER MOTHER STUDENT OTHER
+the cat the neighbors found is really hungry. wow.,REASON REALLY+WORK/BUSINESS WOW/AWFUL FOUR AROUND WOW READ REALLY+WORK/BUSINESS WOW/AWFUL REALLY
+have you met my new friend?,NEW GOOD/THANK-YOU METAL FRIEND FRIEND HAVE
+obama is swimming at the beach?,BEAUTIFUL SWIRLING SWIRLING MORNING SWIRLING OBAMA
+"what happens in groups of people who have a visual-tactile oriented way of life is that they have their own habits, but they break many voice range rules when they join different groups.",THAT WHO THAT WHAT HAVE WHAT WHO THAT THAT HAVE THAT THAT WHAT WHAT VOICE WHAT WHAT THAT MANY PEOPLE MANY MANY WHAT MANY MANY HAVE WHAT WHAT HAVE WHAT THAT HAVE THAT BUT WHEN WHO
+the teacher is at the movies.,WEATHER MOTHER+FATHER WEATHER MOVE TEACHER MOTHER+FATHER
+i wasn't thinking.   now shampoo was oozing all over my hand.  geez.,WAS WAS LOOK-OVER SHAMPOO WAS THINK WAS WAS KNOW KNOW NONE/NOTHING SHAMPOO WAS WAS LOOK-OVER WAS
+"if you speak fast it means that you're smart, witty, smooth, and have a sharp mind.",WITH AND SHARP MEAN AND PAST HAVE SHARP SHARP AND HAVE THAT FAST FAST WITH GOOD/THANK-YOU THAT THAT SHARP WITH SHARP
+why did mother buy a car?,WHY OTHER WEATHER WEATHER CAR MOTHER
+"you know john? mary, he loves her.",GOOD/THANK-YOU UP-TO-NOW KNOW+NEG LOVE MARY SNOW KNOW KNOW+NEG HERE
