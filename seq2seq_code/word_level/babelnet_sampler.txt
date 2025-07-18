@@ -1,0 +1,11 @@
+input sentence,translation
+john's old house was sold yesterday.,REALLY # NO NOT LIKE fs- BEACH SCL
+i still hadn't gotten my stitches.,fs- LATE NOT NOT ARRIVE FUTURE ARRIVE WHY
+"the reporter said, ""really, muhammad ali would stand up and punching at people?""",# DOG_2 FRIEND IX    POSS   MOTHER #
+i have never seen john's car.,IX IX fs- OF fs- fs- MARY NOT
+there is way more research focused on speech disorders than on good quality speech.,SCL fs- OF NOT LIKE THAT POSS # OR REALLY SCL WHY
+the man pulled over.,# IX SCL NOT
+"if there is no snow, school will continue.",DCL NOT DCL fs- PARK POSS
+"""hey last night john stewart interviewed sarah jessica parker."" ""no, he didn't interview her he interviewed sarah palin.""",FRIEND POSS REALLY # ALL DCL IX NOT  fs- JOHN FINISH POSS  fs- BEACH SCL IN POSS MOTHER  # IF SCL  fs-
+john will buy a house.,IX POSS MOTHER DCL FUTURE
+the girls are giving john boxes.,fs- # POSS POSS FRIEND REALLY

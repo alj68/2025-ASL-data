@@ -1,11 +1,11 @@
 input sentence,translation
-the student's mother bought a car.,MOTHER TEACHER STUDENT MOTHER MOTHER+FATHER MOTHER STUDENT OTHER
-the cat the neighbors found is really hungry. wow.,REASON REALLY+WORK/BUSINESS WOW/AWFUL FOUR AROUND WOW READ REALLY+WORK/BUSINESS WOW/AWFUL REALLY
-have you met my new friend?,NEW GOOD/THANK-YOU METAL FRIEND FRIEND HAVE
-obama is swimming at the beach?,BEAUTIFUL SWIRLING SWIRLING MORNING SWIRLING OBAMA
-"what happens in groups of people who have a visual-tactile oriented way of life is that they have their own habits, but they break many voice range rules when they join different groups.",THAT WHO THAT WHAT HAVE WHAT WHO THAT THAT HAVE THAT THAT WHAT WHAT VOICE WHAT WHAT THAT MANY PEOPLE MANY MANY WHAT MANY MANY HAVE WHAT WHAT HAVE WHAT THAT HAVE THAT BUT WHEN WHO
-the teacher is at the movies.,WEATHER MOTHER+FATHER WEATHER MOVE TEACHER MOTHER+FATHER
-i wasn't thinking.   now shampoo was oozing all over my hand.  geez.,WAS WAS LOOK-OVER SHAMPOO WAS THINK WAS WAS KNOW KNOW NONE/NOTHING SHAMPOO WAS WAS LOOK-OVER WAS
-"if you speak fast it means that you're smart, witty, smooth, and have a sharp mind.",WITH AND SHARP MEAN AND PAST HAVE SHARP SHARP AND HAVE THAT FAST FAST WITH GOOD/THANK-YOU THAT THAT SHARP WITH SHARP
-why did mother buy a car?,WHY OTHER WEATHER WEATHER CAR MOTHER
-"you know john? mary, he loves her.",GOOD/THANK-YOU UP-TO-NOW KNOW+NEG LOVE MARY SNOW KNOW KNOW+NEG HERE
+"it feels like they have died, and become a zombie, disconnected from the reality of the world. they talk, but they cannot hear.",FROM FROM CANNOT FROM BUT READ AND FROM LIKE BUT AND FROM BUT HAVE LIKE AND BECOME BECOME NOT BUT CANNOT BECOME LIKE REALLY CANNOT CANNOT BECOME
+my mother bought me a book written by vince lombardi.,MOTHER+FATHER VINCE MOTHER LOOK FATHER BOOK LOOK PAST+NIGHT VINCE WEATHER
+are the clothes really on sale?,READY REALLY READ REASON READY AREA
+people who grunt tend to be people who work in heavy lifting environments that don't require high working skills. the grunt sound is often associated with that kind of work and that group of people.,WITH WORK AND PEOPLE PEOPLE WORK PEOPLE PEOPLE KIND AND PEOPLE WORK KIND THAT PEOPLE WORK WORK PEOPLE PEOPLE WHO WORK PEOPLE WHO PEOPLE PEOPLE WITH TEND WHO WHO WORK TEND PEOPLE WORK HEAVY PEOPLE TEND HIGH THAT
+who is asking for directions?,WHO BRING FOR FOR-FOR THING
+mom is walking to the store.,STORY WEDDING STOP FISHING STOP STORY
+i've been here all day; i want to leave.,HERE HERE FOOTBALL WHERE WANT_2 ALL-DAY NOT-WANT WANT ALL ALL WANT HERE
+he gave my hand a few injections.,LEAVE UNDERSTAND FEW HUSBAND UNDERSTAND HEADBAND HAVE
+"he said, ""to pump out his stomach.""",FIND/FIND-OUT BOY+SCOUT PUMP OUT PUMP FIND/FIND-OUT+#OUT ABOUT WORK-OUT BOY+SCOUT STOP
+my boss works in an office right above me.,PAST+NIGHT WORK POSS RIGHT ABOVE RIGHT LOVE ABOVE RIGHT

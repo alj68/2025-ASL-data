@@ -1,0 +1,4 @@
+input sentence,translation
+he arrived at the wood house.,MOTHER CAR fs- JACK READ IX
+should i go ahead and host a bbq?,INSURANCE/INFECTION CONFLICT/INTERSECTION INSURANCE/INFECTION ACTION ELECTION PRINCE ENTER ACTION
+the friends have not gone to the theater because of traffic.,BEST-FRIEND CAUSE BECAUSE THANK-YOU FRIEND INFORMATION VACATION GIRL+FRIEND INFORMATION THANK-YOU FRIEND
