@@ -1,0 +1,6 @@
+input sentence,translation
+father arrived home late at night.,HOME FATHER FATHER HOME HOUSE CONFIDENT
+"if i see that the beach is crowded, i would not want to go.",SEEM SEE-SEE BEACH OH-I-SEE WANT+NEG BEACH BEACH DRESS/CLOTHES DRESS/CLOTHES BEACH WANT BEACH SEE-SEE WANT_2 BEACH
+frank's car broke down.,DRESS/CLOTHES SECOND-IN-LIST CAR DURING/WHILE CAR DRESS/CLOTHES
+"no matter who we are, it is important to have diversity in the group.",CHARACTER ENTER BETTER SISTER BETTER WATER WATER SPEECH/ORAL SPEECH/ORAL SISTER ENTER SPEECH/ORAL OVER/AFTER WHO WATER
+"if my friends are going to the party, i will join.",YEAR HEARING CAR HEAR NEAR HEAR ARRIVE CAR YEAR HEARING AREA STILL

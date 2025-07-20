@@ -1,0 +1,6 @@
+input sentence,translation
+"john isn't driving mary to work, he's driving her to school.",MARY CHARLES CHARLES JOHN DIAGNOSIS JOHN MARY BATHROOM HARRY DIAGNOSIS DRIVE TOILET TOILET DRIVE MARY DRIVE
+it shows us how hard it is for us to handle the voice range since the expectations are already culturally settled on what is acceptable and what is not.,SHOW FOR-FOR SHOW SHOW VOICE SHOW VOICE SHOW AND SHOW STRONG WHAT WHAT RANGE ALWAYS AND VOICE HOW SHOW STRONG AREA CULTURE ALWAYS FOR CULTURE CULTURE HOW HOW VOICE
+"the three pigs said ""ok,"" and then left.",TWO TWO PIG HARD FIVE HARD HARD SIX THEN FOUR FOUR
+why is your group of friends travelling?,REMEMBER COMMUNICATE GONE REMEMBER FRIEND GONE REMEMBER
+what did john buy yesterday?,BUY BUY HARRY HARRY BATHROOM
