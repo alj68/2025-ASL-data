@@ -1,0 +1,3 @@
+ROUGE-1 Score: {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.19292064011096954>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.1981840878725052>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.1869170367717743>}
+ROUGE-2 Score: {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.048842333257198334>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.04743726924061775>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.045907940715551376>}
+ROUGE-3 Score: {'precision': <tf.Tensor: shape=(), dtype=float32, numpy=0.011831390671432018>, 'recall': <tf.Tensor: shape=(), dtype=float32, numpy=0.01248966995626688>, 'f1_score': <tf.Tensor: shape=(), dtype=float32, numpy=0.011346022598445415>}
