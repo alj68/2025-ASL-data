@@ -1,0 +1,11 @@
+input sentence,translation
+i drove really slowly.,fs- LATE IX POSS
+we went into a restaurant.  i was hungry because i hadn't eaten lunch yet.,FRIEND POSS CAR WHY NOT LOOK REALLY  IX # WHEN BOOK  fs- IT  fs-
+does jack have money?,REALLY MOTHER IX fs-
+the teacher finished reading the magazine and is now reading a book.,FRIEND MOTHER fs- CREAM NONE  IF  WHEN DCL  WHEN
+"i was like, “oh, wow, that`s fine.” he wanted to transfer to rochester because he wanted to work at rit too.",fs- MARY IX FINISH GO-OUT MOTHER IX # OK REALLY SCL   TEACH+AGENT # SO POSS SISTER fs- LATE  WHEN  IF CAR
+dad likes chocolate cereal.,REALLY IX # SO
+he rushes downstairs and pries the lid off,MOTHER  IF CAR POSS IX
+my sister is going tubing.,POSS MOTHER NOT CAR WHO
+"the hearing people don't tell each other, ""you have a good speech,"" they don't.",FRIEND MOTHER # LA REALLY IX   IF REALLY NOT  MOTHER NOT CAR
+is that his father's car?,# WHEN fs- MARY POSS HOUSE fs-

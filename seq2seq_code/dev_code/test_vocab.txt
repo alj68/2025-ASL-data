@@ -1,0 +1,6 @@
+input sentence,translation
+"dana was impatient.  she said, ""can we ask the doctor?""",IF FATHER CAR IX NOT IX # OK CAR DCL POSS TEACH+AGENT IX NOT
+the cop looked at my friend and pulled me out of the car.,FRIEND  IX NOT IX FUTURE  TEACH+AGENT fs- LATE POSS
+did mom already walk to the store?,MOTHER BUY FRIEND
+"we were working, doing landscaping.",fs- BEACH  fs- CREAM
+"throughout my high school years, my mother always had to wake me up because the alarm couldn`t.",MOTHER NOT BUY IX MUST  # ALL_2 IX SCL FUTURE IX SCL WHY
